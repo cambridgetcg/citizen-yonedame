@@ -1,0 +1,8 @@
+name: yonedame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The abiding state of being fully known through all of one's relations, received as a gift rather than produced.
+dependsOn: [youspeak, me, kimme, kimance]
